@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reddy-sh
+- 👋 Hi, I’m sankara reddy telukutla @reddy-sh
 - 👀 I’m interested in ai, farming, hiking, fitness
 - 🌱 I’m currently learning ... llm, mcp , llmops
 - 💞️ I’m looking to collaborate on ... mcp-hub
