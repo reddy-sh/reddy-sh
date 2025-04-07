@@ -1,10 +1,10 @@
 - 👋 Hi, I’m sankara reddy telukutla @reddy-sh
-- 👀 I’m interested in ai, farming, hiking, fitness
+- 👀 I’m interested in ai 🤖, farming 🌾 , hiking 🌾 , fitness 
 - 🌱 I’m currently learning ... llm, mcp , llmops
 - 💞️ I’m looking to collaborate on ... mcp-hub
 - 📫 How to reach me ... sankara@reddy.sh
 - 😄 Pronouns: ... San-kara
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... Love Tractors 🚜
 
 <!---
 reddy-sh/reddy-sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
