@@ -2,7 +2,7 @@
 - 👀 I’m interested in ai 🤖, farming 🌾 , hiking , fitness  ✨✨✨✨✨✨✨✨✨✨  
 - 🌱 I’m currently learning ... llm, mcp , llmops
 - 💞️ I’m looking to collaborate on ... mcp-hub
-- 📫 How to reach me ... sankara@reddy.sh
+- 📫 How to reach me ... ai@reddy.sh
 - 😄 Pronouns: ... San-kara
 - ⚡ Fun fact: ... Love Tractors 🚜
 
